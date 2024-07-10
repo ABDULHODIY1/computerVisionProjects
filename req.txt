@@ -1,0 +1,5 @@
+numpy
+opencv-python
+pyserial
+requests
+python-snap7
